@@ -18,7 +18,7 @@ The given URL will lead you to this WebSite :-
 
 ### Versioning
 
-We use [github_desktop](http://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sanketjaswal/website/tags). 
+We use [github_desktop](http://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sanketjaswal/website/tags).
 
 ## Author
 
@@ -27,6 +27,16 @@ We use [github_desktop](http://github.com/) for versioning. For the versions ava
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
- 
+
 ### Clone repository sanketjaswal/website
- ``` git clone git@github.com:sanketjaswal/website.git```
+ ```$ git clone git@github.com:sanketjaswal/website.git```
+
+## Command for direct push access
+
+### Setup Git for Ubuntu 16.04:
+
+ ```
+ $ sudo apt install git
+ $ git config --global user.name "Your Name"
+ $ git config --global user.email "youremail@domain.com"
+ ```
