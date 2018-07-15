@@ -62,55 +62,32 @@
   top:4px;
 }
 
-.information{
-  border: 5px double #105195;
-  padding: 10px ;
-  width: 195px;
-  margin-right:px;
+.forms{
+  width:550px;
+  margin: 0px auto;
+  font-size: 16.5px;
+  text-align: center;
 }
 
-.information h3{
-  color:white;
-  background-color:#f09711;
-  font-family: sans-serif;
-  margin: 0px 0px;
-  font-size: 22px;
-
+.rgistr{
+  border-radius: 5px;
+  border: 3px outset #f3f70a;
+  background-color: #f2f4ef;
 }
 
-.sec_list{
-  list-style-type: none;
-  color: inherit;
-  background-color:
-}
-
-.seclist li a{
-  text-decoration: none;
-}
-
-.notice{
-  border:5px double #0bdd07;
-  padding: 10px ;
-  width: 215px;
-  margin-right:px;
-}
-
-.notice h3{
-  color:white;
-  background-color:#1149f0;
-  font-family: sans-serif;
-  margin: 0px 0px;
-  font-size: 22px;
-}
-
-.thrd_list{
-  list-style-type: square;
-  font-size: 17px;
-  margin:;
+.rgistr label{
+  float: left;
+  width: 120px;
+  margin-left:40px ;
+  margin-right: 0px;
+  font-family: monospace;
+  border: 2px solid red;
   text-align: left;
 }
 
-.this{
-  margin-left: 20px;
-  padding-left: 5px;
+.box{
+  padding: 5px;
+  border-radius: 5px;
+  outline: none;
+  ;
 }

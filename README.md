@@ -29,7 +29,7 @@ We use [github_desktop](http://github.com/) for versioning. For the versions ava
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ### Clone repository sanketjaswal/website
- ```$ git clone git@github.com:sanketjaswal/website.git```
+ ``` $ git clone git@github.com:sanketjaswal/website.git ```
 
 ## Command for direct push access
 
