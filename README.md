@@ -24,10 +24,6 @@ We use [github_desktop](http://github.com/) for versioning. For the versions ava
 
 * **Sanket Jaswal** - *Initial work* - [sanketjaswal](https://github.com/sanketjaswal)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
 ### Clone repository sanketjaswal/website
  ``` $ git clone git@github.com:sanketjaswal/website.git ```
 
@@ -40,3 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
  $ git config --global user.name "Your Name"
  $ git config --global user.email "youremail@domain.com"
  ```
+ ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+
