@@ -38,5 +38,5 @@ We use [github_desktop](http://github.com/) for versioning. For the versions ava
  ```
  ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
