@@ -20,7 +20,11 @@ The given URL will lead you to this WebSite :-
 
 We use [github_desktop](http://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sanketjaswal/website/tags).
 
-## Author
+## Contributers
+* Sanket
+* Devansh
+* Anubhav
+* Anurag
 
 * **Sanket Jaswal** - *Initial work* - [sanketjaswal](https://github.com/sanketjaswal)
 
@@ -39,4 +43,5 @@ We use [github_desktop](http://github.com/) for versioning. For the versions ava
  ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
 
